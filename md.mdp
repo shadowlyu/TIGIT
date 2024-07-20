@@ -1,7 +1,7 @@
 title                   = Protein-ligand complex MD simulation 
 ; Run parameters
 integrator              = md        ; leap-frog integrator
-nsteps                  = 100000000   ; 2 * 500000 = 1000 ps (1 ns)
+nsteps                  = 50000000   ; 2 * 500000 = 1000 ps (1 ns)
 dt                      = 0.002     ; 2 fs
 comm-grps  = Protein_MOL
 comm-mode  = angular
