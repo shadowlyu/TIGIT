@@ -1,0 +1,475 @@
+[ moleculetype ]
+; name          nrexcl
+MOL       3
+
+[ atoms ]
+;  Index   type   residue  resname   atom        cgnr     charge       mass
+     1     c2         1      MOL     C1            1   -0.55085609   12.010736
+     2     c2         1      MOL     C2            2   -0.35942446   12.010736
+     3     c2         1      MOL     C3            3   -0.33122936   12.010736
+     4     c2         1      MOL     C4            4   -0.40098837   12.010736
+     5     c2         1      MOL     C5            5    0.40861220   12.010736
+     6     cc         1      MOL     C6            6   -0.31777007   12.010736
+     7     cc         1      MOL     C7            7    0.11622726   12.010736
+     8     cc         1      MOL     C8            8    0.22268993   12.010736
+     9     c3         1      MOL     C9            9   -0.36892891   12.010736
+    10     c3         1      MOL     C10          10    0.16120210   12.010736
+    11     c3         1      MOL     C11          11   -0.22471175   12.010736
+    12     c2         1      MOL     C12          12    0.77821611   12.010736
+    13     o          1      MOL     O13          13   -0.81739402   15.999405
+    14     o          1      MOL     O14          14   -0.79921300   15.999405
+    15     c2         1      MOL     C15          15    0.17354355   12.010736
+    16     cc         1      MOL     C16          16    0.11839408   12.010736
+    17     cc         1      MOL     C17          17   -0.09324011   12.010736
+    18     c2         1      MOL     C18          18    0.21662390   12.010736
+    19     c3         1      MOL     C19          19   -0.39330640   12.010736
+    20     ce         1      MOL     C20          20   -0.11028836   12.010736
+    21     c2         1      MOL     C21          21   -0.40574147   12.010736
+    22     c2         1      MOL     C22          22    0.15618287   12.010736
+    23     cc         1      MOL     C23          23    0.12956184   12.010736
+    24     cc         1      MOL     C24          24   -0.12082309   12.010736
+    25     c2         1      MOL     C25          25    0.28467071   12.010736
+    26     c3         1      MOL     C26          26   -0.38696231   12.010736
+    27     ce         1      MOL     C27          27   -0.10280640   12.010736
+    28     c2         1      MOL     C28          28   -0.40383201   12.010736
+    29     cc         1      MOL     C29          29    0.24216245   12.010736
+    30     cc         1      MOL     C30          30    0.12265476   12.010736
+    31     cc         1      MOL     C31          31   -0.33280787   12.010736
+    32     c2         1      MOL     C32          32    0.42558092   12.010736
+    33     c3         1      MOL     C33          33   -0.36474273   12.010736
+    34     c3         1      MOL     C34          34    0.15673907   12.010736
+    35     c3         1      MOL     C35          35   -0.24385129   12.010736
+    36     c2         1      MOL     C36          36    0.78767627   12.010736
+    37     o          1      MOL     O37          37   -0.80020926   15.999405
+    38     o          1      MOL     O38          38   -0.82140711   15.999405
+    39     n2         1      MOL     N39          39   -0.63136196   14.006703
+    40     n2         1      MOL     N40          40   -0.53704886   14.006703
+    41     n2         1      MOL     N41          41   -0.56697321   14.006703
+    42     n2         1      MOL     N42          42   -0.64990802   14.006703
+    43     UF_Fe      1      MOL     Fe43         43    1.25076762   55.845144
+    44     ha         1      MOL     H44          44    0.30278604    1.007941
+    45     ha         1      MOL     H45          45    0.19352272    1.007941
+    46     ha         1      MOL     H46          46    0.17319660    1.007941
+    47     ha         1      MOL     H47          47    0.18821267    1.007941
+    48     hc         1      MOL     H48          48    0.09654178    1.007941
+    49     hc         1      MOL     H49          49    0.10817206    1.007941
+    50     hc         1      MOL     H50          50    0.14059687    1.007941
+    51     hc         1      MOL     H51          51   -0.02954868    1.007941
+    52     hc         1      MOL     H52          52    0.00767203    1.007941
+    53     hc         1      MOL     H53          53    0.05121662    1.007941
+    54     hc         1      MOL     H54          54    0.02574138    1.007941
+    55     hc         1      MOL     H55          55    0.12470526    1.007941
+    56     hc         1      MOL     H56          56    0.12543279    1.007941
+    57     hc         1      MOL     H57          57    0.11521626    1.007941
+    58     ha         1      MOL     H58          58    0.14318258    1.007941
+    59     ha         1      MOL     H59          59    0.18640203    1.007941
+    60     ha         1      MOL     H60          60    0.16259938    1.007941
+    61     hc         1      MOL     H61          61    0.12566576    1.007941
+    62     hc         1      MOL     H62          62    0.12223919    1.007941
+    63     hc         1      MOL     H63          63    0.11422012    1.007941
+    64     ha         1      MOL     H64          64    0.14039263    1.007941
+    65     ha         1      MOL     H65          65    0.18430246    1.007941
+    66     ha         1      MOL     H66          66    0.16225285    1.007941
+    67     hc         1      MOL     H67          67    0.13773090    1.007941
+    68     hc         1      MOL     H68          68    0.09550139    1.007941
+    69     hc         1      MOL     H69          69    0.10998587    1.007941
+    70     hc         1      MOL     H70          70    0.01347768    1.007941
+    71     hc         1      MOL     H71          71   -0.02824929    1.007941
+    72     hc         1      MOL     H72          72    0.03834925    1.007941
+    73     hc         1      MOL     H73          73    0.05280367    1.007941
+ 
+[ bonds ]
+; atom_i  atom_j  functype      r0 (nm)    k (kJ/mol/nm^2)
+    1       5         1        0.138866     3.058059E+05     ; C1-C5, mSeminario method
+    1      32         1        0.138759     3.079517E+05     ; C1-C32, mSeminario method
+    1      44         1        0.108187     3.168651E+05     ; C1-H44, mSeminario method
+    2       8         1        0.138484     3.138783E+05     ; C2-C8, mSeminario method
+    2      15         1        0.139121     2.991102E+05     ; C2-C15, mSeminario method
+    2      45         1        0.108197     3.166500E+05     ; C2-H45, mSeminario method
+    3      18         1        0.138795     3.074198E+05     ; C3-C18, mSeminario method
+    3      22         1        0.138856     3.043177E+05     ; C3-C22, mSeminario method
+    3      46         1        0.108119     3.174739E+05     ; C3-H46, mSeminario method
+    4      25         1        0.139039     3.026585E+05     ; C4-C25, mSeminario method
+    4      29         1        0.138573     3.120669E+05     ; C4-C29, mSeminario method
+    4      47         1        0.108179     3.168424E+05     ; C4-H47, mSeminario method
+    5       6         1        0.145632     2.064389E+05     ; C5-C6, mSeminario method
+    5      39         1        0.137200     2.451948E+05     ; C5-N39, mSeminario method
+    6       7         1        0.136773     3.695750E+05     ; C6-C7, mSeminario method
+    6      10         1        0.150109     2.026351E+05     ; C6-C10, mSeminario method
+    7       8         1        0.145214     2.105119E+05     ; C7-C8, mSeminario method
+    7       9         1        0.149872     2.099173E+05     ; C7-C9, mSeminario method
+    8      39         1        0.137531     2.402275E+05     ; C8-N39, mSeminario method
+    9      48         1        0.109439     2.846693E+05     ; C9-H48, mSeminario method
+    9      49         1        0.109534     2.822556E+05     ; C9-H49, mSeminario method
+    9      50         1        0.109085     2.940940E+05     ; C9-H50, mSeminario method
+   10      11         1        0.153859     1.637204E+05     ; C10-C11, mSeminario method
+   10      51         1        0.109451     2.815883E+05     ; C10-H51, mSeminario method
+   10      52         1        0.109186     2.877528E+05     ; C10-H52, mSeminario method
+   11      12         1        0.155631     1.164589E+05     ; C11-C12, mSeminario method
+   11      53         1        0.109733     2.791245E+05     ; C11-H53, mSeminario method
+   11      54         1        0.109468     2.839765E+05     ; C11-H54, mSeminario method
+   12      13         1        0.125691     4.708042E+05     ; C12-O13, mSeminario method
+   12      14         1        0.125728     4.664111E+05     ; C12-O14, mSeminario method
+   15      16         1        0.144641     2.168840E+05     ; C15-C16, mSeminario method
+   15      40         1        0.137458     2.428586E+05     ; C15-N40, mSeminario method
+   16      17         1        0.137781     3.329699E+05     ; C16-C17, mSeminario method
+   16      19         1        0.149735     2.105289E+05     ; C16-C19, mSeminario method
+   17      18         1        0.145670     2.056145E+05     ; C17-C18, mSeminario method
+   17      20         1        0.145904     2.386114E+05     ; C17-C20, mSeminario method
+   18      40         1        0.137105     2.459030E+05     ; C18-N40, mSeminario method
+   19      55         1        0.109236     2.900550E+05     ; C19-H55, mSeminario method
+   19      56         1        0.109590     2.807804E+05     ; C19-H56, mSeminario method
+   19      57         1        0.109162     2.912823E+05     ; C19-H57, mSeminario method
+   20      21         1        0.133995     4.808270E+05     ; C20-C21, mSeminario method
+   20      58         1        0.108735     3.031401E+05     ; C20-H58, mSeminario method
+   21      59         1        0.108289     3.182304E+05     ; C21-H59, mSeminario method
+   21      60         1        0.108392     3.180082E+05     ; C21-H60, mSeminario method
+   22      23         1        0.144681     2.160061E+05     ; C22-C23, mSeminario method
+   22      41         1        0.137660     2.396706E+05     ; C22-N41, mSeminario method
+   23      24         1        0.137769     3.334629E+05     ; C23-C24, mSeminario method
+   23      26         1        0.149731     2.105143E+05     ; C23-C26, mSeminario method
+   24      25         1        0.145676     2.042670E+05     ; C24-C25, mSeminario method
+   24      27         1        0.145903     2.386493E+05     ; C24-C27, mSeminario method
+   25      41         1        0.136877     2.502214E+05     ; C25-N41, mSeminario method
+   26      61         1        0.109590     2.807852E+05     ; C26-H61, mSeminario method
+   26      62         1        0.109237     2.900304E+05     ; C26-H62, mSeminario method
+   26      63         1        0.109165     2.911578E+05     ; C26-H63, mSeminario method
+   27      28         1        0.133994     4.809181E+05     ; C27-C28, mSeminario method
+   27      64         1        0.108734     3.032534E+05     ; C27-H64, mSeminario method
+   28      65         1        0.108289     3.181916E+05     ; C28-H65, mSeminario method
+   28      66         1        0.108392     3.179977E+05     ; C28-H66, mSeminario method
+   29      30         1        0.145234     2.134777E+05     ; C29-C30, mSeminario method
+   29      42         1        0.137415     2.426323E+05     ; C29-N42, mSeminario method
+   30      31         1        0.136760     3.696771E+05     ; C30-C31, mSeminario method
+   30      33         1        0.149871     2.099364E+05     ; C30-C33, mSeminario method
+   31      32         1        0.145642     2.048733E+05     ; C31-C32, mSeminario method
+   31      34         1        0.150114     2.023460E+05     ; C31-C34, mSeminario method
+   32      42         1        0.137303     2.434282E+05     ; C32-N42, mSeminario method
+   33      67         1        0.109091     2.940004E+05     ; C33-H67, mSeminario method
+   33      68         1        0.109437     2.847125E+05     ; C33-H68, mSeminario method
+   33      69         1        0.109537     2.821596E+05     ; C33-H69, mSeminario method
+   34      35         1        0.153847     1.635932E+05     ; C34-C35, mSeminario method
+   34      70         1        0.109239     2.866185E+05     ; C34-H70, mSeminario method
+   34      71         1        0.109373     2.832140E+05     ; C34-H71, mSeminario method
+   35      36         1        0.155622     1.151086E+05     ; C35-C36, mSeminario method
+   35      72         1        0.109544     2.826094E+05     ; C35-H72, mSeminario method
+   35      73         1        0.109672     2.802001E+05     ; C35-H73, mSeminario method
+   36      37         1        0.125699     4.676138E+05     ; C36-O37, mSeminario method
+   36      38         1        0.125688     4.712345E+05     ; C36-O38, mSeminario method
+ 
+[ angles ]
+; atom_i  atom_j  atom_k  functype    a0 (Deg.)  k (kJ/mol/rad^2)
+    5       1      32         1       125.905      5.944420E+02     ; C5-C1-C32, mSeminario method
+    5       1      44         1       117.036      2.517536E+02     ; C5-C1-H44, mSeminario method
+   32       1      44         1       117.060      2.515445E+02     ; C32-C1-H44, mSeminario method
+    8       2      15         1       126.058      5.623901E+02     ; C8-C2-C15, mSeminario method
+    8       2      45         1       116.828      2.543478E+02     ; C8-C2-H45, mSeminario method
+   15       2      45         1       117.111      2.492987E+02     ; C15-C2-H45, mSeminario method
+   18       3      22         1       126.190      5.552753E+02     ; C18-C3-C22, mSeminario method
+   18       3      46         1       117.057      2.511332E+02     ; C18-C3-H46, mSeminario method
+   22       3      46         1       116.752      2.456089E+02     ; C22-C3-H46, mSeminario method
+   25       4      29         1       125.936      5.894895E+02     ; C25-C4-C29, mSeminario method
+   25       4      47         1       117.328      2.537536E+02     ; C25-C4-H47, mSeminario method
+   29       4      47         1       116.732      2.535484E+02     ; C29-C4-H47, mSeminario method
+    1       5       6         1       124.327      6.279741E+02     ; C1-C5-C6, mSeminario method
+    1       5      39         1       124.815      6.111554E+02     ; C1-C5-N39, mSeminario method
+    6       5      39         1       110.856      5.654167E+02     ; C6-C5-N39, mSeminario method
+    5       6       7         1       106.171      5.832563E+02     ; C5-C6-C7, mSeminario method
+    5       6      10         1       125.639      5.401340E+02     ; C5-C6-C10, mSeminario method
+    7       6      10         1       128.164      5.525095E+02     ; C7-C6-C10, mSeminario method
+    6       7       8         1       106.643      5.719637E+02     ; C6-C7-C8, mSeminario method
+    6       7       9         1       128.350      5.523413E+02     ; C6-C7-C9, mSeminario method
+    8       7       9         1       125.006      5.332882E+02     ; C8-C7-C9, mSeminario method
+    2       8       7         1       124.273      6.236622E+02     ; C2-C8-C7, mSeminario method
+    2       8      39         1       125.060      6.063063E+02     ; C2-C8-N39, mSeminario method
+    7       8      39         1       110.666      5.665127E+02     ; C7-C8-N39, mSeminario method
+    7       9      48         1       111.709      4.176231E+02     ; C7-C9-H48, mSeminario method
+    7       9      49         1       111.698      4.046327E+02     ; C7-C9-H49, mSeminario method
+    7       9      50         1       110.988      4.271428E+02     ; C7-C9-H50, mSeminario method
+   48       9      49         1       107.032      2.710468E+02     ; H48-C9-H49, mSeminario method
+   48       9      50         1       107.696      2.946717E+02     ; H48-C9-H50, mSeminario method
+   49       9      50         1       107.492      2.416756E+02     ; H49-C9-H50, mSeminario method
+    6      10      11         1       113.841      7.447447E+02     ; C6-C10-C11, mSeminario method
+    6      10      51         1       110.197      4.140467E+02     ; C6-C10-H51, mSeminario method
+    6      10      52         1       110.008      4.001652E+02     ; C6-C10-H52, mSeminario method
+   11      10      51         1       108.928      3.874192E+02     ; C11-C10-H51, mSeminario method
+   11      10      52         1       107.933      4.244563E+02     ; C11-C10-H52, mSeminario method
+   51      10      52         1       105.581      3.030328E+02     ; H51-C10-H52, mSeminario method
+   10      11      12         1       115.264      9.292059E+02     ; C10-C11-C12, mSeminario method
+   10      11      53         1       109.409      4.193359E+02     ; C10-C11-H53, mSeminario method
+   10      11      54         1       110.706      3.848130E+02     ; C10-C11-H54, mSeminario method
+   12      11      53         1       107.255      5.121283E+02     ; C12-C11-H53, mSeminario method
+   12      11      54         1       108.106      4.853146E+02     ; C12-C11-H54, mSeminario method
+   53      11      54         1       105.614      2.208500E+02     ; H53-C11-H54, mSeminario method
+   11      12      13         1       115.190      4.509308E+02     ; C11-C12-O13, mSeminario method
+   11      12      14         1       117.605      4.434508E+02     ; C11-C12-O14, mSeminario method
+   13      12      14         1       127.197      4.841039E+02     ; O13-C12-O14, mSeminario method
+    2      15      16         1       124.324      6.401955E+02     ; C2-C15-C16, mSeminario method
+    2      15      40         1       124.761      6.070306E+02     ; C2-C15-N40, mSeminario method
+   16      15      40         1       110.915      5.827850E+02     ; C16-C15-N40, mSeminario method
+   15      16      17         1       106.322      5.402885E+02     ; C15-C16-C17, mSeminario method
+   15      16      19         1       125.290      5.186341E+02     ; C15-C16-C19, mSeminario method
+   17      16      19         1       128.360      5.308259E+02     ; C17-C16-C19, mSeminario method
+   16      17      18         1       106.253      5.841135E+02     ; C16-C17-C18, mSeminario method
+   16      17      20         1       129.592      6.791701E+02     ; C16-C17-C20, mSeminario method
+   18      17      20         1       124.127      6.249740E+02     ; C18-C17-C20, mSeminario method
+    3      18      17         1       124.512      6.242338E+02     ; C3-C18-C17, mSeminario method
+    3      18      40         1       124.935      5.929957E+02     ; C3-C18-N40, mSeminario method
+   17      18      40         1       110.551      5.576035E+02     ; C17-C18-N40, mSeminario method
+   16      19      55         1       110.745      4.036649E+02     ; C16-C19-H55, mSeminario method
+   16      19      56         1       111.928      2.969875E+02     ; C16-C19-H56, mSeminario method
+   16      19      57         1       111.664      4.208805E+02     ; C16-C19-H57, mSeminario method
+   55      19      56         1       107.095      2.834557E+02     ; H55-C19-H56, mSeminario method
+   55      19      57         1       107.915      3.120586E+02     ; H55-C19-H57, mSeminario method
+   56      19      57         1       107.269      2.775730E+02     ; H56-C19-H57, mSeminario method
+   17      20      21         1       127.202      5.400810E+02     ; C17-C20-C21, mSeminario method
+   17      20      58         1       115.624      2.664833E+02     ; C17-C20-H58, mSeminario method
+   21      20      58         1       117.174      2.499804E+02     ; C21-C20-H58, mSeminario method
+   20      21      59         1       122.779      2.735692E+02     ; C20-C21-H59, mSeminario method
+   20      21      60         1       120.523      2.772788E+02     ; C20-C21-H60, mSeminario method
+   59      21      60         1       116.686      1.819000E+02     ; H59-C21-H60, mSeminario method
+    3      22      23         1       124.274      6.280185E+02     ; C3-C22-C23, mSeminario method
+    3      22      41         1       124.884      6.015068E+02     ; C3-C22-N41, mSeminario method
+   23      22      41         1       110.841      5.764105E+02     ; C23-C22-N41, mSeminario method
+   22      23      24         1       106.306      5.444210E+02     ; C22-C23-C24, mSeminario method
+   22      23      26         1       125.333      5.208970E+02     ; C22-C23-C26, mSeminario method
+   24      23      26         1       128.330      5.326904E+02     ; C24-C23-C26, mSeminario method
+   23      24      25         1       106.272      5.816153E+02     ; C23-C24-C25, mSeminario method
+   23      24      27         1       129.628      6.771222E+02     ; C23-C24-C27, mSeminario method
+   25      24      27         1       124.076      6.240634E+02     ; C25-C24-C27, mSeminario method
+    4      25      24         1       124.566      6.354368E+02     ; C4-C25-C24, mSeminario method
+    4      25      41         1       124.818      6.016053E+02     ; C4-C25-N41, mSeminario method
+   24      25      41         1       110.609      5.638236E+02     ; C24-C25-N41, mSeminario method
+   23      26      61         1       111.928      2.961665E+02     ; C23-C26-H61, mSeminario method
+   23      26      62         1       110.726      4.039761E+02     ; C23-C26-H62, mSeminario method
+   23      26      63         1       111.689      4.202013E+02     ; C23-C26-H63, mSeminario method
+   61      26      62         1       107.092      2.829156E+02     ; H61-C26-H62, mSeminario method
+   61      26      63         1       107.287      2.790434E+02     ; H61-C26-H63, mSeminario method
+   62      26      63         1       107.893      3.116195E+02     ; H62-C26-H63, mSeminario method
+   24      27      28         1       127.211      5.401528E+02     ; C24-C27-C28, mSeminario method
+   24      27      64         1       115.591      2.663397E+02     ; C24-C27-H64, mSeminario method
+   28      27      64         1       117.197      2.499033E+02     ; C28-C27-H64, mSeminario method
+   27      28      65         1       122.776      2.735880E+02     ; C27-C28-H65, mSeminario method
+   27      28      66         1       120.527      2.772952E+02     ; C27-C28-H66, mSeminario method
+   65      28      66         1       116.686      1.818975E+02     ; H65-C28-H66, mSeminario method
+    4      29      30         1       124.230      6.280967E+02     ; C4-C29-C30, mSeminario method
+    4      29      42         1       125.087      6.103987E+02     ; C4-C29-N42, mSeminario method
+   30      29      42         1       110.683      5.696794E+02     ; C30-C29-N42, mSeminario method
+   29      30      31         1       106.653      5.699187E+02     ; C29-C30-C31, mSeminario method
+   29      30      33         1       125.022      5.320728E+02     ; C29-C30-C33, mSeminario method
+   31      30      33         1       128.323      5.518808E+02     ; C31-C30-C33, mSeminario method
+   30      31      32         1       106.167      5.847064E+02     ; C30-C31-C32, mSeminario method
+   30      31      34         1       128.131      5.505529E+02     ; C30-C31-C34, mSeminario method
+   32      31      34         1       125.675      5.395177E+02     ; C32-C31-C34, mSeminario method
+    1      32      31         1       124.383      6.254275E+02     ; C1-C32-C31, mSeminario method
+    1      32      42         1       124.798      6.102895E+02     ; C1-C32-N42, mSeminario method
+   31      32      42         1       110.818      5.648579E+02     ; C31-C32-N42, mSeminario method
+   30      33      67         1       110.984      4.287441E+02     ; C30-C33-H67, mSeminario method
+   30      33      68         1       111.719      4.176993E+02     ; C30-C33-H68, mSeminario method
+   30      33      69         1       111.697      4.043951E+02     ; C30-C33-H69, mSeminario method
+   67      33      68         1       107.699      2.946675E+02     ; H67-C33-H68, mSeminario method
+   67      33      69         1       107.481      2.412184E+02     ; H67-C33-H69, mSeminario method
+   68      33      69         1       107.034      2.711262E+02     ; H68-C33-H69, mSeminario method
+   31      34      35         1       113.763      7.297438E+02     ; C31-C34-C35, mSeminario method
+   31      34      70         1       109.844      4.005624E+02     ; C31-C34-H70, mSeminario method
+   31      34      71         1       110.377      4.128321E+02     ; C31-C34-H71, mSeminario method
+   35      34      70         1       108.232      4.254130E+02     ; C35-C34-H70, mSeminario method
+   35      34      71         1       108.759      3.848728E+02     ; C35-C34-H71, mSeminario method
+   70      34      71         1       105.516      2.991687E+02     ; H70-C34-H71, mSeminario method
+   34      35      36         1       115.299      8.585721E+02     ; C34-C35-C36, mSeminario method
+   34      35      72         1       110.415      3.862298E+02     ; C34-C35-H72, mSeminario method
+   34      35      73         1       109.710      3.992787E+02     ; C34-C35-H73, mSeminario method
+   36      35      72         1       107.920      4.931813E+02     ; C36-C35-H72, mSeminario method
+   36      35      73         1       107.477      5.027328E+02     ; C36-C35-H73, mSeminario method
+   72      35      73         1       105.530      2.254547E+02     ; H72-C35-H73, mSeminario method
+   35      36      37         1       117.609      4.350350E+02     ; C35-C36-O37, mSeminario method
+   35      36      38         1       115.132      4.391809E+02     ; C35-C36-O38, mSeminario method
+   37      36      38         1       127.257      4.808717E+02     ; O37-C36-O38, mSeminario method
+    5      39       8         1       105.663      1.545589E+03     ; C5-N39-C8, mSeminario method
+   15      40      18         1       105.953      1.539999E+03     ; C15-N40-C18, mSeminario method
+   22      41      25         1       105.969      1.541481E+03     ; C22-N41-C25, mSeminario method
+   29      42      32         1       105.679      1.543541E+03     ; C29-N42-C32, mSeminario method
+ 
+[ dihedrals ] ; propers
+; atom_i  atom_j  atom_k  atom_l  functype   d0 (Deg.)   k (kJ/mol/rad^2)    ; Case of functype=2
+; atom_i  atom_j  atom_k  atom_l  functype  phase (Deg.)  kd (kJ/mol) pn     ; Case of functype=9
+    1       5       6       7         2      -179.417      4.233526E+02      ; C1-C5-C6-C7, mSeminario method
+    1       5       6      10         2         2.317      4.406961E+02      ; C1-C5-C6-C10, mSeminario method
+    1       5      39       8         2       179.503      4.437621E+02      ; C1-C5-N39-C8, mSeminario method
+    1      32      31      30         2       179.472      4.223620E+02      ; C1-C32-C31-C30, mSeminario method
+    1      32      31      34         2        -2.313      4.398741E+02      ; C1-C32-C31-C34, mSeminario method
+    1      32      42      29         2      -179.565      4.428253E+02      ; C1-C32-N42-C29, mSeminario method
+    2       8       7       6         2      -179.649      4.271167E+02      ; C2-C8-C7-C6, mSeminario method
+    2       8       7       9         2        -0.005      4.151523E+02      ; C2-C8-C7-C9, mSeminario method
+    2       8      39       5         2       179.723      4.383299E+02      ; C2-C8-N39-C5, mSeminario method
+    2      15      16      17         2       179.598      4.392429E+02      ; C2-C15-C16-C17, mSeminario method
+    2      15      16      19         2        -2.176      4.254403E+02      ; C2-C15-C16-C19, mSeminario method
+    2      15      40      18         2       179.937      4.439166E+02      ; C2-C15-N40-C18, mSeminario method
+    3      18      17      16         2       179.745      4.419849E+02      ; C3-C18-C17-C16, mSeminario method
+    3      18      17      20         2         1.507      4.471610E+02      ; C3-C18-C17-C20, mSeminario method
+    3      18      40      15         2      -179.947      4.421475E+02      ; C3-C18-N40-C15, mSeminario method
+    3      22      23      24         2      -179.938      4.392830E+02      ; C3-C22-C23-C24, mSeminario method
+    3      22      23      26         2        -1.825      4.262489E+02      ; C3-C22-C23-C26, mSeminario method
+    3      22      41      25         2       179.575      4.401296E+02      ; C3-C22-N41-C25, mSeminario method
+    4      25      24      23         2      -179.664      4.424077E+02      ; C4-C25-C24-C23, mSeminario method
+    4      25      24      27         2         1.991      4.475139E+02      ; C4-C25-C24-C27, mSeminario method
+    4      25      41      22         2       179.544      4.456833E+02      ; C4-C25-N41-C22, mSeminario method
+    4      29      30      31         2       179.568      4.253247E+02      ; C4-C29-C30-C31, mSeminario method
+    4      29      30      33         2        -0.052      4.132637E+02      ; C4-C29-C30-C33, mSeminario method
+    4      29      42      32         2      -179.629      4.409487E+02      ; C4-C29-N42-C32, mSeminario method
+    5       1      32      31         2      -179.781      4.059099E+02      ; C5-C1-C32-C31, mSeminario method
+    5       1      32      42         2        -0.270      3.840731E+02      ; C5-C1-C32-N42, mSeminario method
+    5       6       7       8         2        -0.150      6.415531E+02      ; C5-C6-C7-C8, mSeminario method
+    5       6       7       9         2      -179.778      5.363319E+02      ; C5-C6-C7-C9, mSeminario method
+    5       6      10      11         2        84.033      6.446059E+02      ; C5-C6-C10-C11, mSeminario method
+    5       6      10      51         2       -38.681      4.110779E+02      ; C5-C6-C10-H51, mSeminario method
+    5       6      10      52         2      -154.692      4.024658E+02      ; C5-C6-C10-H52, mSeminario method
+    5      39       8       7         2        -0.066      6.002675E+02      ; C5-N39-C8-C7, mSeminario method
+    6       5       1      32         2       179.736      4.060178E+02      ; C6-C5-C1-C32, mSeminario method
+    6       5       1      44         2        -0.177      2.179797E+02      ; C6-C5-C1-H44, mSeminario method
+    6       5      39       8         2        -0.031      6.020373E+02      ; C6-C5-N39-C8, mSeminario method
+    6       7       8      39         2         0.142      5.400452E+02      ; C6-C7-C8-N39, mSeminario method
+    6       7       9      48         2      -127.745      3.442977E+02      ; C6-C7-C9-H48, mSeminario method
+    6       7       9      49         2       112.405      3.360051E+02      ; C6-C7-C9-H49, mSeminario method
+    6       7       9      50         2        -7.537      3.351400E+02      ; C6-C7-C9-H50, mSeminario method
+    6      10      11      12         2       175.059      9.388106E+02      ; C6-C10-C11-C12, mSeminario method
+    6      10      11      53         2        54.127      3.698794E+02      ; C6-C10-C11-H53, mSeminario method
+    6      10      11      54         2       -61.866      3.856099E+02      ; C6-C10-C11-H54, mSeminario method
+    7       6       5      39         2         0.119      5.363107E+02      ; C7-C6-C5-N39, mSeminario method
+    7       6      10      11         2       -93.849      5.501541E+02      ; C7-C6-C10-C11, mSeminario method
+    7       6      10      51         2       143.437      3.705123E+02      ; C7-C6-C10-H51, mSeminario method
+    7       6      10      52         2        27.426      3.635015E+02      ; C7-C6-C10-H52, mSeminario method
+    7       8       2      15         2       179.278      3.999510E+02      ; C7-C8-C2-C15, mSeminario method
+    7       8       2      45         2        -0.038      2.185772E+02      ; C7-C8-C2-H45, mSeminario method
+    8       2      15      16         2      -179.559      4.059716E+02      ; C8-C2-C15-C16, mSeminario method
+    8       2      15      40         2         0.333      3.860285E+02      ; C8-C2-C15-N40, mSeminario method
+    8       7       6      10         2       178.057      5.935811E+02      ; C8-C7-C6-C10, mSeminario method
+    8       7       9      48         2        52.690      3.915796E+02      ; C8-C7-C9-H48, mSeminario method
+    8       7       9      49         2       -67.160      3.808884E+02      ; C8-C7-C9-H49, mSeminario method
+    8       7       9      50         2       172.898      3.797772E+02      ; C8-C7-C9-H50, mSeminario method
+    9       7       6      10         2        -1.571      5.023890E+02      ; C9-C7-C6-C10, mSeminario method
+    9       7       8      39         2       179.785      5.210583E+02      ; C9-C7-C8-N39, mSeminario method
+   10       6       5      39         2      -178.147      5.644515E+02      ; C10-C6-C5-N39, mSeminario method
+   10      11      12      13         2       169.321      6.536805E+02      ; C10-C11-C12-O13, mSeminario method
+   10      11      12      14         2       -11.675      5.924020E+02      ; C10-C11-C12-O14, mSeminario method
+   12      11      10      51         2       -61.534      4.160671E+02      ; C12-C11-C10-H51, mSeminario method
+   12      11      10      52         2        52.634      4.470428E+02      ; C12-C11-C10-H52, mSeminario method
+   13      12      11      53         2       -68.583      3.342289E+02      ; O13-C12-C11-H53, mSeminario method
+   13      12      11      54         2        44.875      3.609734E+02      ; O13-C12-C11-H54, mSeminario method
+   14      12      11      53         2       110.422      3.174397E+02      ; O14-C12-C11-H53, mSeminario method
+   14      12      11      54         2      -136.121      3.414682E+02      ; O14-C12-C11-H54, mSeminario method
+   15       2       8      39         2        -0.483      3.799694E+02      ; C15-C2-C8-N39, mSeminario method
+   15      16      17      18         2         0.612      7.628001E+02      ; C15-C16-C17-C18, mSeminario method
+   15      16      17      20         2       178.719      6.222031E+02      ; C15-C16-C17-C20, mSeminario method
+   15      16      19      55         2      -148.571      4.094522E+02      ; C15-C16-C19-H55, mSeminario method
+   15      16      19      56         2        92.002      4.197666E+02      ; C15-C16-C19-H56, mSeminario method
+   15      16      19      57         2       -28.280      4.130230E+02      ; C15-C16-C19-H57, mSeminario method
+   15      40      18      17         2         0.551      6.015789E+02      ; C15-N40-C18-C17, mSeminario method
+   16      15       2      45         2        -0.245      2.214902E+02      ; C16-C15-C2-H45, mSeminario method
+   16      15      40      18         2        -0.158      6.047611E+02      ; C16-C15-N40-C18, mSeminario method
+   16      17      18      40         2        -0.750      5.767561E+02      ; C16-C17-C18-N40, mSeminario method
+   16      17      20      21         2        27.838      3.518346E+02      ; C16-C17-C20-C21, mSeminario method
+   16      17      20      58         2      -152.394      3.196744E+02      ; C16-C17-C20-H58, mSeminario method
+   17      16      15      40         2        -0.307      5.596010E+02      ; C17-C16-C15-N40, mSeminario method
+   17      16      19      55         2        29.258      3.711862E+02      ; C17-C16-C19-H55, mSeminario method
+   17      16      19      56         2       -90.169      3.796429E+02      ; C17-C16-C19-H56, mSeminario method
+   17      16      19      57         2       149.550      3.741184E+02      ; C17-C16-C19-H57, mSeminario method
+   17      18       3      22         2      -179.664      4.062603E+02      ; C17-C18-C3-C22, mSeminario method
+   17      18       3      46         2         0.670      2.187394E+02      ; C17-C18-C3-H46, mSeminario method
+   17      20      21      59         2         2.236      2.194037E+02      ; C17-C20-C21-H59, mSeminario method
+   17      20      21      60         2      -179.067      2.101532E+02      ; C17-C20-C21-H60, mSeminario method
+   18       3      22      23         2       179.061      3.954074E+02      ; C18-C3-C22-C23, mSeminario method
+   18       3      22      41         2        -0.668      3.772301E+02      ; C18-C3-C22-N41, mSeminario method
+   18      17      16      19         2      -177.542      6.212481E+02      ; C18-C17-C16-C19, mSeminario method
+   18      17      20      21         2      -154.358      4.135051E+02      ; C18-C17-C20-C21, mSeminario method
+   18      17      20      58         2        25.410      3.697831E+02      ; C18-C17-C20-H58, mSeminario method
+   19      16      15      40         2       177.919      5.373891E+02      ; C19-C16-C15-N40, mSeminario method
+   19      16      17      20         2         0.565      5.246877E+02      ; C19-C16-C17-C20, mSeminario method
+   20      17      18      40         2      -178.988      5.856017E+02      ; C20-C17-C18-N40, mSeminario method
+   22       3      18      40         2         0.901      3.841355E+02      ; C22-C3-C18-N40, mSeminario method
+   22      23      24      25         2         0.440      7.601155E+02      ; C22-C23-C24-C25, mSeminario method
+   22      23      24      27         2       178.659      6.203827E+02      ; C22-C23-C24-C27, mSeminario method
+   22      23      26      61         2        92.148      4.194435E+02      ; C22-C23-C26-H61, mSeminario method
+   22      23      26      62         2      -148.440      4.084819E+02      ; C22-C23-C26-H62, mSeminario method
+   22      23      26      63         2       -28.174      4.126014E+02      ; C22-C23-C26-H63, mSeminario method
+   22      41      25      24         2         0.467      6.032170E+02      ; C22-N41-C25-C24, mSeminario method
+   23      22       3      46         2        -1.273      2.206266E+02      ; C23-C22-C3-H46, mSeminario method
+   23      22      41      25         2        -0.185      5.994935E+02      ; C23-C22-N41-C25, mSeminario method
+   23      24      25      41         2        -0.585      5.791542E+02      ; C23-C24-C25-N41, mSeminario method
+   23      24      27      28         2        27.734      3.522419E+02      ; C23-C24-C27-C28, mSeminario method
+   23      24      27      64         2      -152.537      3.194869E+02      ; C23-C24-C27-H64, mSeminario method
+   24      23      22      41         2        -0.177      5.593425E+02      ; C24-C23-C22-N41, mSeminario method
+   24      23      26      61         2       -90.161      3.794841E+02      ; C24-C23-C26-H61, mSeminario method
+   24      23      26      62         2        29.251      3.704892E+02      ; C24-C23-C26-H62, mSeminario method
+   24      23      26      63         2       149.517      3.738749E+02      ; C24-C23-C26-H63, mSeminario method
+   24      25       4      29         2       179.213      4.064562E+02      ; C24-C25-C4-C29, mSeminario method
+   24      25       4      47         2        -0.059      2.183971E+02      ; C24-C25-C4-H47, mSeminario method
+   24      27      28      65         2         2.227      2.189891E+02      ; C24-C27-C28-H65, mSeminario method
+   24      27      28      66         2      -179.081      2.101121E+02      ; C24-C27-C28-H66, mSeminario method
+   25       4      29      30         2      -179.569      4.041383E+02      ; C25-C4-C29-C30, mSeminario method
+   25       4      29      42         2         0.114      3.844347E+02      ; C25-C4-C29-N42, mSeminario method
+   25      24      23      26         2      -177.598      6.222586E+02      ; C25-C24-C23-C26, mSeminario method
+   25      24      27      28         2      -154.330      4.140358E+02      ; C25-C24-C27-C28, mSeminario method
+   25      24      27      64         2        25.399      3.695067E+02      ; C25-C24-C27-H64, mSeminario method
+   26      23      22      41         2       177.936      5.383802E+02      ; C26-C23-C22-N41, mSeminario method
+   26      23      24      27         2         0.622      5.253846E+02      ; C26-C23-C24-C27, mSeminario method
+   27      24      25      41         2      -178.929      5.879361E+02      ; C27-C24-C25-N41, mSeminario method
+   29       4      25      41         2         0.263      3.810397E+02      ; C29-C4-C25-N41, mSeminario method
+   29      30      31      32         2         0.146      6.421834E+02      ; C29-C30-C31-C32, mSeminario method
+   29      30      31      34         2      -178.011      5.965328E+02      ; C29-C30-C31-C34, mSeminario method
+   29      30      33      67         2      -172.568      3.797878E+02      ; C29-C30-C33-H67, mSeminario method
+   29      30      33      68         2       -52.351      3.924121E+02      ; C29-C30-C33-H68, mSeminario method
+   29      30      33      69         2        67.507      3.810830E+02      ; C29-C30-C33-H69, mSeminario method
+   29      42      32      31         2         0.003      6.013528E+02      ; C29-N42-C32-C31, mSeminario method
+   30      29       4      47         2        -0.292      2.192173E+02      ; C30-C29-C4-H47, mSeminario method
+   30      29      42      32         2         0.090      5.981923E+02      ; C30-C29-N42-C32, mSeminario method
+   30      31      32      42         2        -0.099      5.371461E+02      ; C30-C31-C32-N42, mSeminario method
+   30      31      34      35         2        92.265      5.474781E+02      ; C30-C31-C34-C35, mSeminario method
+   30      31      34      70         2       -29.223      3.652346E+02      ; C30-C31-C34-H70, mSeminario method
+   30      31      34      71         2      -145.163      3.687732E+02      ; C30-C31-C34-H71, mSeminario method
+   31      30      29      42         2        -0.154      5.395836E+02      ; C31-C30-C29-N42, mSeminario method
+   31      30      33      67         2         7.897      3.353305E+02      ; C31-C30-C33-H67, mSeminario method
+   31      30      33      68         2       128.113      3.451341E+02      ; C31-C30-C33-H68, mSeminario method
+   31      30      33      69         2      -112.028      3.363398E+02      ; C31-C30-C33-H69, mSeminario method
+   31      32       1      44         2         0.132      2.181058E+02      ; C31-C32-C1-H44, mSeminario method
+   31      34      35      36         2      -176.936      8.942750E+02      ; C31-C34-C35-C36, mSeminario method
+   31      34      35      72         2        60.444      3.805917E+02      ; C31-C34-C35-H72, mSeminario method
+   31      34      35      73         2       -55.456      3.771106E+02      ; C31-C34-C35-H73, mSeminario method
+   32       1       5      39         2         0.264      3.835179E+02      ; C32-C1-C5-N39, mSeminario method
+   32      31      30      33         2       179.749      5.371637E+02      ; C32-C31-C30-C33, mSeminario method
+   32      31      34      35         2       -85.556      6.367122E+02      ; C32-C31-C34-C35, mSeminario method
+   32      31      34      70         2       152.956      4.029045E+02      ; C32-C31-C34-H70, mSeminario method
+   32      31      34      71         2        37.016      4.072150E+02      ; C32-C31-C34-H71, mSeminario method
+   33      30      29      42         2      -179.774      5.203188E+02      ; C33-C30-C29-N42, mSeminario method
+   33      30      31      34         2         1.592      5.048475E+02      ; C33-C30-C31-C34, mSeminario method
+   34      31      32      42         2       178.116      5.657927E+02      ; C34-C31-C32-N42, mSeminario method
+   34      35      36      37         2         4.905      5.957926E+02      ; C34-C35-C36-O37, mSeminario method
+   34      35      36      38         2      -175.589      6.174311E+02      ; C34-C35-C36-O38, mSeminario method
+   36      35      34      70         2       -54.555      4.334174E+02      ; C36-C35-C34-H70, mSeminario method
+   36      35      34      71         2        59.607      4.180056E+02      ; C36-C35-C34-H71, mSeminario method
+   37      36      35      72         2       128.846      3.428774E+02      ; O37-C36-C35-H72, mSeminario method
+   37      36      35      73         2      -117.774      3.374733E+02      ; O37-C36-C35-H73, mSeminario method
+   38      36      35      72         2       -51.647      3.499352E+02      ; O38-C36-C35-H72, mSeminario method
+   38      36      35      73         2        61.733      3.443082E+02      ; O38-C36-C35-H73, mSeminario method
+   39       5       1      44         2      -179.649      2.113236E+02      ; N39-C5-C1-H44, mSeminario method
+   39       8       2      45         2      -179.798      2.124709E+02      ; N39-C8-C2-H45, mSeminario method
+   40      15       2      45         2       179.647      2.154184E+02      ; N40-C15-C2-H45, mSeminario method
+   40      18       3      46         2      -178.765      2.121601E+02      ; N40-C18-C3-H46, mSeminario method
+   41      22       3      46         2       178.999      2.148500E+02      ; N41-C22-C3-H46, mSeminario method
+   41      25       4      47         2      -179.010      2.108404E+02      ; N41-C25-C4-H47, mSeminario method
+   42      29       4      47         2       179.390      2.132876E+02      ; N42-C29-C4-H47, mSeminario method
+   42      32       1      44         2       179.643      2.116402E+02      ; N42-C32-C1-H44, mSeminario method
+   51      10      11      53         2       177.534      2.474106E+02      ; H51-C10-C11-H53, mSeminario method
+   51      10      11      54         2        61.541      2.543510E+02      ; H51-C10-C11-H54, mSeminario method
+   52      10      11      53         2       -68.298      2.580426E+02      ; H52-C10-C11-H53, mSeminario method
+   52      10      11      54         2       175.710      2.656015E+02      ; H52-C10-C11-H54, mSeminario method
+   58      20      21      59         2      -177.529      1.793983E+02      ; H58-C20-C21-H59, mSeminario method
+   58      20      21      60         2         1.168      1.731657E+02      ; H58-C20-C21-H60, mSeminario method
+   64      27      28      65         2      -177.498      1.790361E+02      ; H64-C27-C28-H65, mSeminario method
+   64      27      28      66         2         1.193      1.730585E+02      ; H64-C27-C28-H66, mSeminario method
+   70      34      35      72         2      -177.175      2.620196E+02      ; H70-C34-C35-H72, mSeminario method
+   70      34      35      73         2        66.924      2.603650E+02      ; H70-C34-C35-H73, mSeminario method
+   71      34      35      72         2       -63.013      2.563067E+02      ; H71-C34-C35-H72, mSeminario method
+   71      34      35      73         2      -178.914      2.547232E+02      ; H71-C34-C35-H73, mSeminario method
+
+; No pair needs to generate
